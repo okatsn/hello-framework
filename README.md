@@ -1,4 +1,12 @@
-# Hello Framework
+# README
+
+## CHECKPOINT
+
+- I'm now [here](https://observablehq.com/framework/getting-started#test-live-preview)
+- Test the d3.csv API for `raw.githubusercontent.com` content. See [this](https://gemini.google.com/app/9201e32c5b75fadf) and [Quarto-Data sources](https://quarto.org/docs/interactive/ojs/data-sources.html#web-apis)
+- Here is the [OJS plot examples](https://observablehq.com/@observablehq/plot-gallery), where [facet](https://observablehq.com/plot/features/facets) feature is especially critical to me.
+
+## Hello Framework (Original documentation)
 
 This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
 
@@ -49,11 +57,11 @@ A typical Framework project looks like this:
 
 ## Command reference
 
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
-| `npm run dev`        | Start local preview server                               |
-| `npm run build`      | Build your static site, generating `./dist`              |
-| `npm run deploy`     | Deploy your app to Observable                            |
-| `npm run clean`      | Clear the local data loader cache                        |
-| `npm run observable` | Run commands like `observable help`                      |
+| Command              | Description                                 |
+|----------------------|---------------------------------------------|
+| `npm install`        | Install or reinstall dependencies           |
+| `npm run dev`        | Start local preview server                  |
+| `npm run build`      | Build your static site, generating `./dist` |
+| `npm run deploy`     | Deploy your app to Observable               |
+| `npm run clean`      | Clear the local data loader cache           |
+| `npm run observable` | Run commands like `observable help`         |
